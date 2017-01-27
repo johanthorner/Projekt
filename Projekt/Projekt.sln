@@ -11,8 +11,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{37B9D7EA
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{4E1EF0AF-8681-4B27-88A8-2649A5361024}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureGuy", "..\..\Portfolio\Presentation\AdventureGuy\AdventureGuy.csproj", "{F93820A0-5FBC-4A95-9DDE-1901B596E5B3}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,10 +25,6 @@ Global
 		{4982B678-C78F-4166-BCDA-16CB6754B7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4982B678-C78F-4166-BCDA-16CB6754B7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4982B678-C78F-4166-BCDA-16CB6754B7F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F93820A0-5FBC-4A95-9DDE-1901B596E5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F93820A0-5FBC-4A95-9DDE-1901B596E5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F93820A0-5FBC-4A95-9DDE-1901B596E5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F93820A0-5FBC-4A95-9DDE-1901B596E5B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,6 +32,5 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E6FF716A-FBBC-4CA8-9108-34D8225A7F92} = {4E1EF0AF-8681-4B27-88A8-2649A5361024}
 		{4982B678-C78F-4166-BCDA-16CB6754B7F0} = {4E1EF0AF-8681-4B27-88A8-2649A5361024}
-		{F93820A0-5FBC-4A95-9DDE-1901B596E5B3} = {37B9D7EA-1BC6-4B6E-88DE-8AE6853B6865}
 	EndGlobalSection
 EndGlobal
